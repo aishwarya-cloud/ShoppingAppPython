@@ -1,0 +1,14 @@
+id1|Arnav|Arni|Admin
+id2|Aarav|Aaru|Admin
+id3|Abhijeet|Abhi|Customer
+id4|Aishwarya|aish|Customer
+id5|Test|test|Admin
+id5|Test2|test2|Admin
+6c9b1c71-48ba-46fd-a967-a5dd53840159|Manali|manali|Admin
+ea497c01-364a-4bf1-8916-cbe908452fb1|Arnav|aru|Customer
+d88aeb3f-542b-4f46-8a38-d8ba446deb45|abybaby|abybaby1|Customer
+416c4d2e-006a-46ab-9a7e-4f9528b10ff6|arnav|arnav1|Admin
+c9aa2fea-bb7d-413e-a068-fa7f27b6e9cf|Aishwarya|Aish|Customer
+799975d8-5c8e-4fc2-9e61-f60103889841|Manali|Mana|Customer
+47223363-b5ee-4378-bd1b-f5321b21bc3c|Leeladhar|leela|Admin
+1b964d3c-d6d6-4d37-a641-f2fc155cba7a|Eshan|eshu|Admin

@@ -1,0 +1,4 @@
+footware|prod-id1|slipper|500
+footware|prod-id2|shoes|10000
+footware|prod-id3|sandles|1000
+footwear|db2a85b8-1041-4f6c-a60c-7be835fde895|Booty|200

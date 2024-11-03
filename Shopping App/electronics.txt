@@ -1,0 +1,4 @@
+electronics|epid-1|radio|2000
+electronics|epid-2|tv|10000
+electronics|epid-3|air-pod|1000
+electronics|6d8ac54f-eb4c-421d-9878-e0185eb03fff|iPhone|60,00,000

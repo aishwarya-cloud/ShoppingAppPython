@@ -1,0 +1,7 @@
+clothing|prd1|shirt|3000
+clothing|prd2|pant|4000
+clothing|prd3|frock|5000
+clothing|prd4|saree|9000
+clothing|793998e8-6736-4522-9f25-373c38192846|socks|100
+clothing|303575fa-3c98-4016-a507-e92729d65ad6|Jeans|3000
+clothing|02444ad1-d1c3-4743-810a-e19ca8a6f9db|Baby dress|333

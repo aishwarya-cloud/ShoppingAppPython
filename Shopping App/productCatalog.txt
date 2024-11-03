@@ -1,0 +1,7 @@
+footwear
+clothing
+electronics
+Real-Estate
+Grocery
+Vegetables
+Fruits
